@@ -1,0 +1,2 @@
+# Leveraging-Diacritics-A-Deep-Learning-Approach-for-Enhanced-Sentiment-Analysis-in-Arabic-Language.
+This repository hosts the code and resources for a machine learning project focused on sentiment analysis of diacritized Arabic text using Recurrent Neural Networks (RNNs), particularly leveraging the MARBERT model. The project aims to explore and enhance the capabilities of RNNs in handling the complex m
